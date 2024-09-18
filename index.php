@@ -63,6 +63,9 @@
     </style>
 </head>
 
+
+
+
 <body>
     <!-- Banner en la parte superior de la página -->
     <div class="banner">Cristian Montecinos</div>
